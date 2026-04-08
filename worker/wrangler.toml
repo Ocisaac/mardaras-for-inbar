@@ -1,0 +1,8 @@
+name = "madrasa-proxy"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+MADRASA_ORIGIN = "https://www.madrasafree.com"
+COURSES_ORIGIN = "https://courses.madrasafree.com"
