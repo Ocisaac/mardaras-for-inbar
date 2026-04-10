@@ -1,0 +1,5 @@
+{
+  "name": "madrasa-for-inbar",
+  "private": true,
+  "workspaces": ["worker", "pwa"]
+}
